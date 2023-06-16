@@ -172,6 +172,6 @@ module_exit(switch_driver_exit);
 
 /*Meta Information*/
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Anusha");
+MODULE_AUTHOR("Durgasish");
 MODULE_DESCRIPTION("A Switch (interrupt) Device Driver");
 MODULE_VERSION("1.0");
